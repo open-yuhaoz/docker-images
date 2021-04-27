@@ -1,3 +1,3 @@
-FROM quay.io/operator-framework
+FROM quay.io/operator-framework:latest
 
 MAINTAINER zhuyuhao
